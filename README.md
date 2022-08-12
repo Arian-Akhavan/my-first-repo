@@ -14,3 +14,11 @@ Lorem ipsum dolor sit amet,<sub> consectetur adipiscing </sub> elit, sed do eius
 
 </p>
 </details>
+
+<details><summary> CSS training site </summary>
+<p>
+
+[CSS training site](https://css-tricks.ir)
+
+</p>
+</details>
