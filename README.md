@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet,<sub> consectetur adipiscing </sub> elit, sed do eius
 <details><summary> CSS training site </summary>
 <p>
 
-[CSS training site](https://css-tricks.ir)
+[Css-Tricks](https://css-tricks.ir)
 
 </p>
 </details>
